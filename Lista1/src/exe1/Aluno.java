@@ -25,7 +25,7 @@ public class Aluno {
     }
     public void dadosAluno(){
         System.out.println("Nome: " + this.nome +
-                " Nro. Aluno: " + this.nroAluno +
+                " Nro Aluno: " + this.nroAluno +
                 " Idade: " + this.idade +
                 " Situação  " + this.passou());
     }

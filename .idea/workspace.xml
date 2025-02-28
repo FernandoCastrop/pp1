@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="066cc87d-fcdb-4ffe-b73e-f5a2145b8e4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/src/MainAluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/src/exe1/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista1/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exe0/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/MainCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/src/MainCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/src/exe2/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/src/MainAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/MainAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/src/exe1/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exe1/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Listas/MainAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Listas/MainAluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Listas/exe1/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Listas/exe1/Aluno.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2tKTV64G67AQb7gg8wQpjUAB4o2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MainAluno.executor": "Run",
+    "Application.MainCliente.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -62,6 +68,7 @@
       <workItem from="1740099788769" duration="331000" />
       <workItem from="1740609167012" duration="215000" />
       <workItem from="1740609793374" duration="3500000" />
+      <workItem from="1740701710706" duration="3014000" />
     </task>
     <servers />
   </component>
