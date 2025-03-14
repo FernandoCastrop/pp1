@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="066cc87d-fcdb-4ffe-b73e-f5a2145b8e4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lista1/src/MainCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/src/exe2/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/src/MainProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/src/MainRio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/src/exe3/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/src/exe4/Rio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista1/src/MainAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/MainAluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista1/src/exe1/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exe1/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Listas/MainAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Listas/MainAluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Listas/exe1/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Listas/exe1/Aluno.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MainAluno.executor": "Run",
+    "Application.MainCarro.executor": "Run",
     "Application.MainCliente.executor": "Run",
+    "Application.MainProduto.executor": "Run",
+    "Application.MainRio.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -68,7 +69,8 @@
       <workItem from="1740099788769" duration="331000" />
       <workItem from="1740609167012" duration="215000" />
       <workItem from="1740609793374" duration="3500000" />
-      <workItem from="1740701710706" duration="3014000" />
+      <workItem from="1740701710706" duration="3373000" />
+      <workItem from="1741818962107" duration="3894000" />
     </task>
     <servers />
   </component>
